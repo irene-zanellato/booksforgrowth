@@ -1,0 +1,15 @@
+.btn-buy {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 6px;
+  margin: 5px;
+  margin-top: 50px;
+  width: 80px;
+  color: rgb(225,225,225);
+  background-color: rgb(204,0,0);
+  font-size: 35px;
+}
+

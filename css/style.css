@@ -1,0 +1,39 @@
+/* Importing all components file*/
+
+@import url('components/page-container.css');
+@import url('components/navbar-booksforgrowth.css');
+@import url('components/btn-nav.css');
+@import url('components/banner.css');
+@import url('components/container.css');
+@import url('components/book.css');
+@import url('components/btn-buy.css');
+@import url('components/list-line.css');
+
+
+
+/*General style rules for fonts and colors*/
+
+body {
+  font-family: lora;
+  font-size: 18px;
+}
+h1, h2, h3, {
+  font-family: roboto;
+  font-weight: normal;
+}
+
+a {
+  font-family: roboto;
+  font-weight: normal;
+  text-decoration: none;
+  color: rgb(100,100,100);
+
+}
+
+a:hover {
+  font-family: roboto;
+  font-weight: normal;
+  text-decoration: none;
+  color: rgb(200,200,200);
+
+}

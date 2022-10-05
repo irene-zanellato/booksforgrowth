@@ -1,0 +1,6 @@
+.navbar-booksforgrowth {
+  display: flex;
+  flex-wrap: wrap;
+  position: top;
+  margin-bottom: 20px;
+}
