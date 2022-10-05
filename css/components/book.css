@@ -16,5 +16,10 @@
   margin-left: 20px;
 }
 
+@media (max-width: 540px) {
+  .book {
+    display: block; }
+    }
+
 
 
